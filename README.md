@@ -1,9 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Aayush Shah</h1>
 <h3 align="center">A CSE Undergrad at BITS Pilani Hyderabad Campus, exploring web development and Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pjay20301&label=views&color=0e75b6&style=flat" alt="pjay20301" /> </p>
-
-<!-- <p align="left"> <a href="https://twitter.com/jaypatel20301" target="blank"><img src="https://img.shields.io/twitter/follow/jaypatel20301?logo=twitter&style=for-the-badge" alt="jaypatel20301" /></a> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush11shah&label=views&color=0e75b6&style=flat" alt="aayush11shah" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
